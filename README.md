@@ -5,8 +5,8 @@ HackMaker Tool for making Every Linux hacker
 
 </h1>
 
-<B>Comand
-</B>
+<h3>Comand
+</h3>
 <h2><b>
   $ sudo git clone https://github.com/axoguys/hackmaker.git
  

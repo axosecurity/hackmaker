@@ -10,6 +10,7 @@ $ sudo git clone https://github.com/axoguys/hackmaker.git
   $ cd hackmaker
   
   $ sudo chmod +x hackmaker.sh 
+  $ sudo ./hackmaker.sh
 
 </b></h2>
 

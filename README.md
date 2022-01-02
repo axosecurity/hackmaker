@@ -4,3 +4,9 @@ In this Repo i will share a script for makeing every Linux os hacking os so foll
 HackMaker Tool for making Every Linux hacker
 
 </h1>
+<h2><b>
+sudo git clone   
+</b></h2>
+
+
+

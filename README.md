@@ -7,6 +7,8 @@ HackMaker Tool for making Every Linux hacker
 <h2><b>
 $ sudo git clone https://github.com/axoguys/hackmaker.git
   
+  $ cd hackmaker
+  
   $ sudo chmod +x hackmaker.sh 
 
 </b></h2>

@@ -5,7 +5,7 @@ HackMaker Tool for making Every Linux hacker
 
 </h1>
 <h2><b>
-sudo git clone   
+$ sudo git clone   
 </b></h2>
 
 
